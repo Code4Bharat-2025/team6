@@ -13,7 +13,7 @@ It is a Chat Bot API that turns a number into a fascinating facts.
 4. Prime numbers
 5. Square of a number
 
-# Future Enahancements - There are below features we have developed :
+# Future Enahancements - There are below features we can develop :
 1. Image based outputs
 2. Multiple fun facts for a single number as an input
 3. Calendar based fun facts for a given date.
