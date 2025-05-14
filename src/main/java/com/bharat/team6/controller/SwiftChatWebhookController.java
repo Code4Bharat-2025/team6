@@ -18,7 +18,8 @@ public class SwiftChatWebhookController {
     private SwiftChatSenderService senderService;
 
     @PostMapping
-    public ResponseEntity<String> receive(@RequestBody SwiftChatRequestDTO request) {
+    public ResponseEntity<String> processData(@RequestBody SwiftChatRequestDTO request) throws Exception{
+        //System.out.println(request);
         String message = request.getMessage();
         String userId = request.getSender();
 
