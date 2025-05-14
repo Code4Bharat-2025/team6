@@ -26,3 +26,7 @@ It is a Chat Bot API that turns a number into a fascinating facts.
     "message":"<Any_Number>"
 }
 # Request Method - POST
+
+# PPT Link - https://github.com/Code4Bharat-2025/team6/blob/main/Code%20for%20Bharat-Team6.pptx
+
+# Demo Video Link - https://github.com/Code4Bharat-2025/team6/blob/main/Demo%20Video%20_%20Number%20Nuggets.mp4
